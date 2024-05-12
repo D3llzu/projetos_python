@@ -1,2 +1,3 @@
-# projetos_python
-Alguns projetos utilizando "Python"
+# Projetos em Python
+
+Utilizando "Python" pra fazer algumas coisas
